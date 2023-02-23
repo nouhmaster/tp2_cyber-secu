@@ -24,8 +24,7 @@ Les **attaques sur les objets connectés** sont variées. Elles peuvent inclure 
 
 **Impact sur la vie privée :** Les attaquants peuvent accéder à vos données personnelles, telles que vos informations bancaires, vos photos, vos enregistrements audio et vidéo, vos préférences personnelles et vos habitudes. Ils peuvent également utiliser ces informations pour vous faire chanter, vous extorquer ou vous harceler.
 
-- **SIM swapping**
-
+## SIM swapping
 L'attaque de SIM swapping est une technique de piratage sophistiquée qui permet à un attaquant de prendre le contrôle de votre numéro de téléphone portable. En obtenant votre numéro de téléphone et certaines informations personnelles grâce à des techniques de phishing, de social engineering ou à partir de données volées lors de précédentes violations de données, l'attaquant peut ensuite accéder à vos comptes en ligne et voler de l'argent ou des données sensibles.
 
-  **Impact sur la vie privée :** L'attaquant pourrait accéder à des informations confident
+**Impact sur la vie professionelle  :** L'attaquant pourrait accéder à des informations confidentielles, modifier des données ou même voler de l'argent en utilisant vos comptes professionnels. Cela pourrait entraîner des pertes financières pour votre entreprise, des violations de données et des dommages à la réputation de votre entreprise.
